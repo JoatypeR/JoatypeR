@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developping Front End and Webdesign
 - 🌱 I’m currently learning Webdesign in CEPEGRA
 - 💞️ I’m looking to collaborate on all domains 
-- 📫 How to reach me : weryjoachim@gmail.com
+- 📫 How to reach me : joachimwery@outlook.com
 
 <!---
 JoatypeR/JoatypeR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
