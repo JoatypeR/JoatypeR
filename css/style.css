@@ -8,6 +8,7 @@
 
 body {
   background-color: #CDC2B1;
+  display: flex;
 }
 
 [type=checkbox] ~ img {
@@ -139,9 +140,9 @@ nav > a {
 a {
   border: solid 2px #fff;
   text-align: right;
-  color: black;
+  color: orangered;
   padding: 0.5rem;
-  font-family: "Video", sans-serif;
+  font-family: "revelia-slanted", sans-serif;
   font-size: 1.5rem;
   width: 100%;
   text-decoration: none;
@@ -150,7 +151,7 @@ a {
 @media (min-width: 48rem) {
   a {
     margin: 1rem;
-    font-family: "Video", sans-serif;
+    font-family: "revelia-slanted", sans-serif;
     font-size: 1rem;
     color: orangered;
     background: none;
