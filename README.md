@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoatypeR
-- 👀 I’m interested in Developping Front-end and Webdesign
+- 👀 I’m interested in Developping and Webdesign
 - 🌱 I’m was finished a formation in Webdesign and I'm curently learning Front-end
 - 💞️ I’m looking to collaborate on all domains 
 - 📫 How to reach me : joachimwery@outlook.com
